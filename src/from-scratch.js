@@ -1,5 +1,7 @@
 class Rectangle {
 
+  
+
 }
 
 class Vehicle {
@@ -7,7 +9,7 @@ class Vehicle {
 }
 
 class PasswordManager {
-  
+
 
 }
 
